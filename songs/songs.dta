@@ -172,3 +172,725 @@
       (character_outfit goth2)
       (guitar flying_v)
       (venue theatre)))
+(aceofspades
+   (name
+      "Ace of Spades")
+   (artist
+      "Motörhead")
+   (song
+      (name songs/aceofspades/aceofspades)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -3.0 -3.0 0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (anim_tempo kTempoFast)
+   (preview 9845 44150)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/aceofspades/aceofspades_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (song_practice_2
+      (name songs/aceofspades/aceofspades_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid))
+   (song_practice_3
+      (name songs/aceofspades/aceofspades_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/aceofspades/aceofspades.mid)))
+(frankenstein
+   (name
+      "Frankenstein")
+   (artist
+      "The Edgar Winter Group")
+   (song
+      (name songs/frankenstein/frankenstein)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (anim_tempo kTempoMedium)
+   (preview 26000 56000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/frankenstein/frankenstein_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (song_practice_2
+      (name songs/frankenstein/frankenstein_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (song_practice_3
+      (name songs/frankenstein/frankenstein_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/frankenstein/frankenstein.mid))
+   (band metal_bass metal_drummer metal_keyboard))
+(heyyou
+   (name
+      "Hey You")
+   (artist
+      "The Exies")
+   (song
+      (name songs/heyyou/heyyou)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (anim_tempo kTempoMedium)
+   (preview 49853 79000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue fest))
+   (song_practice_1
+      (name songs/heyyou/heyyou_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (song_practice_2
+      (name songs/heyyou/heyyou_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid))
+   (song_practice_3
+      (name songs/heyyou/heyyou_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/heyyou/heyyou.mid)))
+(higherground
+   (name
+      "Higher Ground")
+   (artist
+      "Red Hot Chili Peppers")
+   (song
+      (name songs/higherground/higherground)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (anim_tempo kTempoFast)
+   (preview 41795 72000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/higherground/higherground_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (song_practice_2
+      (name songs/higherground/higherground_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid))
+   (song_practice_3
+      (name songs/higherground/higherground_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/higherground/higherground.mid)))
+(infected
+   (name
+      "Infected")
+   (artist
+      "Bad Religion")
+   (song
+      (name songs/infected/infected)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/infected/infected.mid))
+   (anim_tempo kTempoMedium)
+   (preview 109892 133000)
+   (quickplay
+      (character_outfit punk1)
+      (guitar sg)
+      (venue fest))
+   (song_practice_1
+      (name songs/infected/infected_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid))
+   (song_practice_2
+      (name songs/infected/infected_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid))
+   (song_practice_3
+      (name songs/infected/infected_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/infected/infected.mid)))
+(iwannabesedated
+   (name
+      "I Wanna Be Sedated")
+   (artist
+      "The Ramones")
+   (song
+      (name songs/iwannabesedated/iwannabesedated)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (anim_tempo kTempoFast)
+   (preview 8000 33000)
+   (quickplay
+      (character_outfit punk1)
+      (guitar lespaul)
+      (venue battle))
+   (song_practice_1
+      (name songs/iwannabesedated/iwannabesedated_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (song_practice_2
+      (name songs/iwannabesedated/iwannabesedated_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid))
+   (song_practice_3
+      (name songs/iwannabesedated/iwannabesedated_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/iwannabesedated/iwannabesedated.mid)))
+(killerqueen
+   (name
+      "Killer Queen")
+   (artist
+      "Queen")
+   (song
+      (name songs/killerqueen/killerqueen)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (anim_tempo kTempoFast)
+   (preview 26702 57254)
+   (quickplay
+      (character_outfit classic)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/killerqueen/killerqueen_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (song_practice_2
+      (name songs/killerqueen/killerqueen_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid))
+   (song_practice_3
+      (name songs/killerqueen/killerqueen_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/killerqueen/killerqueen.mid)))
+(barkathemoon
+   (name
+      "Bark at the Moon")
+   (artist
+      "Ozzy Osbourne")
+   (song
+      (name songs/barkathemoon/barkathemoon)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (anim_tempo kTempoFast)
+   (preview 15696 42669)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre))
+   (song_practice_1
+      (name songs/barkathemoon/barkathemoon_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (song_practice_2
+      (name songs/barkathemoon/barkathemoon_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid))
+   (song_practice_3
+      (name songs/barkathemoon/barkathemoon_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/barkathemoon/barkathemoon.mid)))
+(smokeonthewater
+   (name
+      "Smoke on the Water")
+   (artist
+      "Deep Purple")
+   (song
+      (name songs/smokeonthewater/smokeonthewater)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (anim_tempo kTempoMedium)
+   (preview 88000 119000)
+   (quickplay
+      (character_outfit rock2)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/smokeonthewater/smokeonthewater_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (song_practice_2
+      (name songs/smokeonthewater/smokeonthewater_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid))
+   (song_practice_3
+      (name songs/smokeonthewater/smokeonthewater_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/smokeonthewater/smokeonthewater.mid)))
+(stellar
+   (name
+      "Stellar")
+   (artist
+      "Incubus")
+   (song
+      (name songs/stellar/stellar)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (anim_tempo kTempoMedium)
+   (preview 107461 137598)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue theatre))
+   (song_practice_1
+      (name songs/stellar/stellar_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (song_practice_2
+      (name songs/stellar/stellar_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid))
+   (song_practice_3
+      (name songs/stellar/stellar_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/stellar/stellar.mid)))
+(takeitoff
+   (name
+      "Take it Off")
+   (artist
+      "The Donnas")
+   (song
+      (name songs/takeitoff/takeitoff)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-1.5 -1.5 -1.5 -1.5 -1.0))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (anim_tempo kTempoMedium)
+   (preview 38823 65000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue battle))
+   (song_practice_1
+      (name songs/takeitoff/takeitoff_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (song_practice_2
+      (name songs/takeitoff/takeitoff_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (song_practice_3
+      (name songs/takeitoff/takeitoff_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/takeitoff/takeitoff.mid))
+   (band metal_bass metal_drummer female_singer))
+(yougotanotherthingcomin
+   (name
+      "You've Got Another Thing Comin'")
+   (artist
+      "Judas Priest")
+   (song
+      (name songs/yougotanotherthingcomin/yougotanotherthingcomin)
+      (tracks
+         ((guitar
+               (2 3))
+            (bass 4)))
+      (pans
+         (-1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-2.5 -2.5 -3.5 -3.5 -2.5))
+      (cores
+         (-1 -1 1 1 -1))
+      (midi_file songs/yougotanotherthingcomin/yougotanotherthingcomin.mid))
+   (anim_tempo kTempoMedium)
+   (preview 52300 73500)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue battle))
+   (song_practice_1
+      (name songs/trooper/trooper_p85)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid))
+   (song_practice_2
+      (name songs/trooper/trooper_p65)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid))
+   (song_practice_3
+      (name songs/trooper/trooper_p50)
+      (tracks
+         ((guitar 0)
+            (bass 1)))
+      (pans
+         (0.0 0.0))
+      (vols
+         (0.0 0.0))
+      (cores
+         (-1 -1))
+      (midi_file songs/trooper/trooper.mid)))
